@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+padding: 5px;
+
+}
+
+
+h1{
+    text-align: center;
+    margin: 20px 0px;
+}
+
+h2{
+
+        font-size: 45px;
+        color: #07324f;
+        line-height: 46px;
+        margin-bottom: 20px;
+        font-weight: 700;
+  
+}
+
+button{
+border: none;
+background: white;
+
+}
+
+button:hover{
+    color: red;
+}
